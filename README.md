@@ -1,4 +1,4 @@
-# Cmput-206-lab-2
+# Filters and Edge detection
 Assignment 2: Filters and Edge detection
 
 FILTERS
